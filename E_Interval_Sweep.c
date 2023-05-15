@@ -13,6 +13,9 @@ int main()
 }
 
 /*
+//Previous code:
+
+
 #include<stdio.h>
 int main()
 {
