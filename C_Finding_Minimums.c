@@ -4,7 +4,7 @@ int main()
 {
     int n,k,x,mn = INT_MAX;
     scanf("%d %d",&n,&k);
-    int rem = n%k;
+   
     for (int i = 1; i <= n; i++)
     {
         scanf("%d",&x);
